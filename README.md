@@ -11,7 +11,7 @@
 
 
 
-# *RDBMS Case Study 2: Ecommerce System*     
+## *RDBMS Case Study 2: Ecommerce System*     
 
  
 
@@ -23,7 +23,7 @@
 4. OrderDetails:
 5. Cart:
 
-# *RDBMS Case Study 3: Crime Analysis and Reporting System (C.A.R.S.)*     
+## *RDBMS Case Study 3: Crime Analysis and Reporting System (C.A.R.S.)*     
 
 
 
@@ -37,7 +37,7 @@
 6. Evidence:
 7. Reports:
 
-# *RDBMS Case Study 4: Virtual Art Gallery*     
+## *RDBMS Case Study 4: Virtual Art Gallery*     
 
  
 
@@ -49,7 +49,7 @@
 4. Gallery:
 
 
-# *RDBMS Case Study 5: School Information System*     
+## *RDBMS Case Study 5: School Information System*     
 
 
 
