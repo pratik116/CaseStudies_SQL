@@ -55,11 +55,8 @@
 
 ### *Database Tables* :     
 
-1. Incidents:
-2. Victims:
-3. Suspects:
-4. Law Enforcement Agencies:
-5. Officers:
-6. Evidence:
-7. Reports:
+1. CourseMaster:
+2. StudentMaster:
+3. EnrollmentMaster:
+
 
